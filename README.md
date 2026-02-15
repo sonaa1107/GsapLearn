@@ -20,12 +20,11 @@ The purpose of this project is to explore smooth, high-performance animations an
 - Stagger animations for multiple elements
 - Easing functions and animation sequencing
 - Writing performance-optimized animations
+- Integrate GSAP with React
 
 ---
 🛠️ Future Improvements
 
 -- Add more advanced timelines
-
--- Integrate GSAP with React
 
 -- Experiment with SVG and text animations
